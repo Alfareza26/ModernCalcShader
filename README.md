@@ -1,5 +1,7 @@
 # ModernCalcShader - Kalkulator WebView 100% SRGB
 
+![ppi](ppi.jpeg)
+
 ## Deskripsi
 Remake ModernCalc dengan fokus ke konversi RGB ke HEX dan sebaliknya. Ada preview warna real time. Cocok buat web dev dan UI designer. Dibuat oleh Alff Senpai & Saka.dlv.
 
